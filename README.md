@@ -10,3 +10,4 @@ The first repository
 5. Lists are obvious aswell.
 5. Whenever in trouble, reach this link  
     *https://help.github.com/articles/markdown-basics/*
+#### Always write summary, helps you to recollect things when you lookback.
